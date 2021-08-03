@@ -1,0 +1,33 @@
+INFO:__main__:ETL: Ecoli Data Set
+INFO:__main__:EDA: Ecoli Data Set
+INFO:__main__:Running Standard KNN Classification: Ecoli Data
+INFO:__main__:Choosing k= 5 
+INFO:__main__:Avg Score: 0.8338261738261739 
+INFO:__main__:Running Edited KNN: Ecoli Data
+INFO:__main__:Choosing k= 4 
+INFO:__main__:Avg Score: 0.7985814185814186 
+INFO:__main__:Running Condensed KNN: Ecoli Data
+INFO:__main__:Avg Score: 0.7586746586746587 
+INFO:__main__:ETL: Image Segmentation Data Set
+INFO:__main__:EDA: Image Segmentation Data Set
+INFO:__main__:Running Standard KNN Classification: Image Segmentation Data
+INFO:__main__:Choosing k= 1 
+INFO:__main__:Avg Score: 0.8428571428571429 
+INFO:__main__:Running Edited KNN: Image Segmentation Data
+INFO:__main__:Choosing k= 1 
+INFO:__main__:Avg Score: 0.7952380952380952 
+INFO:__main__:Running Condensed KNN: Image Segmentation Data
+INFO:__main__:Avg Score: 0.8333333333333333 
+INFO:__main__:ETL: Computer Hardware Data Set
+INFO:__main__:EDA: Computer Hardware Data Set
+INFO:__main__:Running KNN Regression on Computer Hardware Data Set
+INFO:__main__:Choosing k= 1 
+INFO:__main__:Avg Score: -30.120045617846785 
+INFO:__main__:ETL: Forest Fire Data Set
+INFO:__main__:EDA: Forest Fire Data Set
+INFO:__main__:Running KNN Regression (Full Design Matrix): Forest Fire Data Set
+INFO:__main__:Choosing k= 1 
+INFO:__main__:Avg Score: -10.520461858481932 
+INFO:__main__:Running KNN Regression (Partial Design Matrix): Forest Fire Data Set
+INFO:__main__:Choosing k= 1 
+INFO:__main__:Avg Score: -12.792408195973707 
